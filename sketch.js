@@ -72,7 +72,7 @@ document.addEventListener('keydown', function(event) {
 
   switch (event.keyCode) {
     case 72:
-      alert("Welcome to Paint Program by CodingBird874. use K to change color, E to erase, and R to change stroke size. use H to show this menu again.");
+      alert("Welcome to the Super Fun Paint Program by CodingBird874. use K to change color, E to erase, and R to change stroke size. use H to show this menu again.");
       break;
     case 78:
       alert("test");
